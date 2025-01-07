@@ -4,7 +4,7 @@ title: i2c communication protocol
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: team of 8
+description: team of 4
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
